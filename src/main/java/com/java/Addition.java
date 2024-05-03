@@ -22,7 +22,7 @@ public class Addition extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		PrintWriter pw=	response.getWriter();
-		pw.println("Addition");
+		pw.println("This is Addition program ");
 	}
 
 }
