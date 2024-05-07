@@ -22,7 +22,7 @@ public class maths extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		PrintWriter pw = response.getWriter();
-		pw.println("let's study maths operations with giriraj, farhana and akansha.");
+		pw.println("let's study maths operations with  farhana and akansha.");
 	}
 
 }
